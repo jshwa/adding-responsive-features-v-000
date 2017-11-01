@@ -1,4 +1,4 @@
-@@media only screen and (max-width: 1108px) {
+@media only screen and (max-width: 1108px) {
 
   .wrapper {
     width: 90%;
@@ -100,7 +100,7 @@
 }
 
 @media only screen and (max-width: 700px){
-  
+
   #logo h2 {
     visibility: hidden;
   }
